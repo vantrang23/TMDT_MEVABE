@@ -1,0 +1,43 @@
+b, strong {
+    font-weight: bolder;
+    font-size: 18px;
+}
+div#sidebar {
+    background-color: #FF99CC;
+  }
+.example .tab-content {
+    background-color: #f9fafa00 !important;
+}
+label#tieude {
+    font-size: 17px;
+    width: 246px;
+    margin-top: -6px;
+}
+input.form-input {
+    height: 38px;
+    /* margin-top: -12px; */
+}
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 25px;
+}
+div#preview-1000 {
+    margin-top: -26px;
+}
+
+label#trangthai {
+    font-size: 17px;
+    /* padding-left: 8px; */
+    margin-left: 0px;
+}
+input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: 127px;
+}

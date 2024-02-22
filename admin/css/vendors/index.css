@@ -1,0 +1,53 @@
+.navbar-inverse {
+    background-color: #FF99CC;
+    border-color: #ff009900;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #FF99CC;
+}
+.navbar-inverse .navbar-brand {
+    color: black;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+    margin-right: 52px;
+}
+
+
+/* CSS */
+ul.sub-menu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 55%;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background: white;
+   
+}
+
+li.list-product:hover ul.sub-menu {
+    display: block;
+}
+
+ul.sub-menu li {
+    list-style: none;
+}
+ul.sub-menu li a{
+   color: black;
+}
+a#mar {
+    margin-right: 14px;
+}
+
+ul.dropdown-menu {
+    margin-bottom: 50px;
+}
+
+

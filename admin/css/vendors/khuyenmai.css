@@ -1,0 +1,24 @@
+div#sidebar {
+    background-color: #FF99CC;
+  }
+
+input#button {
+    background: #FF99CC;
+    border-radius: 8px;
+    border-color: #FF99CC;
+}
+tr.title {
+    background: #FF99CC;
+    text-align: center
+}
+table.list.table.table-striped {
+    font-size: 12px;
+}
+td {
+    text-align: center;
+}
+
+b#cochu {
+font-weight: bolder;
+font-size: 21px;
+}

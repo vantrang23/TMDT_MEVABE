@@ -1,0 +1,18 @@
+.list {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 100%;
+    font-size: initial;
+    margin-top: 70px;
+}
+
+
+.list th, .list td {
+    text-align: center; 
+    vertical-align: middle; 
+    padding: 5px; 
+}
+table.list.table.table-striped {
+    width: 100%;
+}

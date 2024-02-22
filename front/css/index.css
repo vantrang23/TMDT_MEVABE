@@ -1,0 +1,17 @@
+#hero {
+    background: #CC3069;
+    position: relative;
+    padding: 4px 50px;
+    cursor: pointer;
+    height: 34px;
+}
+#hero:after {
+    position: absolute;
+    right: 18px;
+    top: 5px;
+    content: "3";
+    font-family: "ElegantIcons";
+    font-size: 18px;
+    color: #ffffff;
+    padding: -18px 12px;
+}

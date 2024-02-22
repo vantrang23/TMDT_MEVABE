@@ -1,0 +1,28 @@
+.form-submit {
+    width: 22%;
+    padding: 10px;
+    background-color: #00004499;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: px;
+}
+.form-submit:hover
+{
+    background-color: #000044eb;
+}
+tr.title {
+    background: #000044ab;
+    color: white;
+}
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+    --cui-table-accent-bg:#fff0 ;
+    color: var(--cui-table-striped-color);
+}
+input#button {
+    background: #990066b3;
+    border-radius: 8px;
+    border-color: #44004152;
+    color: white;
+}

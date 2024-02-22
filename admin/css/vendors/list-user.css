@@ -1,0 +1,21 @@
+div#sidebar {
+    background-color: #FF99CC;
+}
+tr.title {
+        background: #FF99CC;
+        text-align: center
+    }
+    table.list.table.table-striped {
+    font-size: 12px;
+}
+td {
+    text-align: center;
+}
+main.content {
+    /* width: 100px; */
+    /* margin-left: 36px; */
+    margin: 0px 37px;
+}
+h1.h3.mb-3 {
+    font-size: 20px;
+}

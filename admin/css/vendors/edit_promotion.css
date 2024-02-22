@@ -1,0 +1,126 @@
+/* #dialog {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    height: 200px;
+    width: 500px;
+    background: gainsboro;
+    margin: 0px 136px;
+
+}
+
+h2 {
+    font-size: 16px;
+    margin: 4px -138px;
+    font-weight: 900;
+}
+input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: -95px;
+}
+
+b, strong {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.card.mb-4 {
+    height: 700px;
+}
+div#preview-1000 {
+    margin-top: -449px;
+    margin-left: 390px;
+}
+
+input#status {
+    margin-left: 94px;
+}
+.example .tab-content {
+    background-color: #f9fafa00 !important;
+    width: 1068px;
+    margin-left: 167px;
+}
+input.form-input {
+    height: 52px;
+}
+
+.form-input {
+    width: 61%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-left: -61px;
+}
+div#khuyenmai {
+    margin-left: -350px;
+    margin-top: -400px;
+}
+div#preview-1000 {
+    margin-top: -1px;
+    margin-left: 390px;
+} */
+form#km {
+    margin: -23px 26px;
+    /* font-size: 16px; */
+}
+label#tieude {
+    font-size: 16px;
+    width: 164px;
+    /* margin-top: -65px; */
+}
+input.form-input {
+    height: 36px;
+}
+input.form-input {
+    height: 36px;
+    font-size: 17px;
+}
+input#txtDate {
+    font-size: 15px;
+    margin-left: -5px;
+}
+label#trangthai {
+    font-size: 17px;
+    padding-left: 0px;
+}
+input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: 77px;
+}
+.card.mb-4 {
+    height: 1100px;
+}
+div#preview-1000 {
+    margin-left: -148px;
+}
+h4#chonsp {
+    color: #000044;
+    border-style: double;
+    width: 180px;
+    font-size: 22px;
+}
+p#danhmuc {
+    font-size: 20px;
+}
+input[type="checkbox"] {
+    width: 25px;
+    height: 30px;
+    text-align: center;
+    margin-top: -4px;
+    margin-left: 77px;
+}
+b, strong {
+    font-weight: bolder;
+    font-size: 20px;
+}

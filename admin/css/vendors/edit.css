@@ -1,0 +1,39 @@
+td {
+    font-size: 25px;
+}
+input, button, select, optgroup, textarea {
+    margin: 7px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 10px;
+    width: 500px;
+}
+input.form-submit {
+    margin-left: 207px;
+    margin-top: 10px;
+}
+
+
+input[type="text"] {
+    margin: 6px;
+}
+input[type="password"] {
+    margin: 6px;
+}
+input[type="email"] {
+    margin: 6px;
+}
+input[type="checkbox"] {
+    margin: 6px;
+}
+input.form-submit {
+    width: 120px;
+    height: 45px;
+    /* text-align: center; */
+    padding: inherit;
+}
+
+.example .tab-content {
+    background-color: white;
+}

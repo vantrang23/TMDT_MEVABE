@@ -1,0 +1,169 @@
+label#tieude {
+    font-size: 27px;
+  }
+/* add.css */
+/* body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+} */
+
+#wrapper {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 700px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 77px;
+    height: auto;
+}
+
+.form-heading {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.form-group i {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-left: 80px;
+}
+
+.form-submit {
+    width: 22%;
+    padding: 10px;
+    background-color: #00004499;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: px;
+}
+.form-submit:hover
+{
+    background-color: #000044eb;
+}
+
+.form-submit:nth-child(2) {
+    margin-left: 2%;
+}
+
+#eye {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#eye i {
+    cursor: pointer;
+}
+
+/* Media Query for small screens */
+@media (max-width: 600px) {
+    #wrapper {
+        max-width: 90%;
+    }
+}
+
+label#trangthai {
+    font-size: 25px;
+}
+input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: 120px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
+label#tieude {
+    font-size: 22px;
+    width: 199px;
+}
+div#button_add {
+    margin-left: 397px;
+}
+div#sidebar\ bg-color {
+    background-color: #FF99CC
+  }
+label#tieude {
+    font-size: 22px;
+    width: 246px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-left: 25px;
+}
+label#trangthai {
+font-size: 22px;
+padding-left: 0px;
+}
+b, strong {
+    font-weight: bolder;
+    font-size: 30px;
+}
+.example .tab-content {
+    background-color: #f9fafa !important;
+    width: 800px;
+    margin-left: 167px;
+}
+
+
+input#pass {
+    /* margin-left: 85px; */
+    /* width: 908px; */
+    margin-right: -10px;
+}
+.example {
+    height: 450px;
+}
+.example .preview > :last-child {
+    margin-bottom: 0;
+    height: 400px;
+}
+label#tieude {
+    font-size: 22px;
+    width: 246px;
+    /* margin-top: -65px; */
+}
+
+input.form-input {
+    height: 52px;
+}
+
+div#button_add {
+    margin-left: 314px;
+    margin-top: -21px;
+}
+
