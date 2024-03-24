@@ -61,7 +61,7 @@
                             </script>
                             Copyright &copy;<script>
                                 document.write(new Date().getFullYear());
-                            </script> Shop mẹ và bé | by Hồ Thị Thúy Duy- Văn Thị Mỹ Trang <i class="fa fa-heart" aria-hidden="true"></i>
+                            </script> Shop mẹ và bé <i class="fa fa-heart" aria-hidden="true"></i>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
